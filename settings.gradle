@@ -1,0 +1,5 @@
+rootProject.name = 'user-role-management'
+
+include 'user-service'
+include 'role-service'
+include 'user-role-linking'
