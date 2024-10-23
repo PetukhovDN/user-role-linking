@@ -107,7 +107,7 @@
 ### Запуск локально:
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/your-username/user-role-management.git
+   git clone https://github.com/PetukhovDN/user-role-linking.git
 2. Перейдите в директорию проекта:
    ```bash
    cd user-role-management
